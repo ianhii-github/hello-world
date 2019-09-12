@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=640F68F0
+eax=FFFFFFFF ebx=01020000 ecx=00000000 edx=00000001 esi=642081B4 edi=00000000
+ebp=0080DD28 esp=0080C258 program=C:\portablegit\usr\bin\bash.exe, pid 1514, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0080DD28  640F68F0 (00000000, 000002A4, 00000000, 00000000)
+End of stack trace
